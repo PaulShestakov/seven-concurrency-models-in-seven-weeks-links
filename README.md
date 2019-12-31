@@ -20,7 +20,7 @@
     1. Messages and mailboxes
         1. Hewitt, Meijer and Szyperski: The Actor Model: https://www.youtube.com/watch?v=1zVdhDx7Tbs
     3. Distribution
-        1. Joe Armstrong "Systems that Run Forever Self-heal and Scale": https://www.infoq.com/presentations/self-heal-scalable-system/
+        1. Joe Armstrong "Systems that Run Forever Self-heal and Scale": https://www.infoq.com/presentations/self-heal-scalable-system/       
 6. CSP
     1. Channels and go blocks
         1. Timothy Baldridge "Core Async Go Macro Internals" screencast: https://www.youtube.com/watch?v=R3PZMIwXN_g
