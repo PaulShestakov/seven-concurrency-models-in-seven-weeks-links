@@ -24,3 +24,4 @@
 6. CSP
     1. Channels and go blocks
         1. Timothy Baldridge "Core Async Go Macro Internals" screencast: https://www.youtube.com/watch?v=R3PZMIwXN_g
+        2. Huey Petersen "The State Machines of core.async": http://hueypetersen.com/posts/2013/08/02/the-state-machines-of-core-async/
