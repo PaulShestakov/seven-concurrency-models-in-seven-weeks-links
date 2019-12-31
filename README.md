@@ -2,11 +2,11 @@
 
 2. Threads and locks
     1. Mutual exclusion and memory models
-      1. William Pugh's "Java memory model" website: http://www.cs.umd.edu/~pugh/java/memoryModel/
-      2. JSR 133 FAQ: http://www.cs.umd.edu/~pugh/java/memoryModel/jsr-133-faq.html
+        1. William Pugh's "Java memory model" website: http://www.cs.umd.edu/~pugh/java/memoryModel/
+        2. JSR 133 FAQ: http://www.cs.umd.edu/~pugh/java/memoryModel/jsr-133-faq.html
 3. Functional programming
-  2. Functional parallelism
-    1.Rich Hickey "Reducers" 2012 https://www.youtube.com/watch?v=IjB-IOwGrGE
+    2. Functional parallelism
+        1.Rich Hickey "Reducers" 2012 https://www.youtube.com/watch?v=IjB-IOwGrGE
 4. The Clojure way - Separating identity from state
   1. Atoms and persistent data structures
     1. Karl Krukow "Understanding Clojure's PersistentVector implementation" http://blog.higher-order.net/2009/02/01/understanding-clojures-persistentvector-implementation
